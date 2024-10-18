@@ -32,6 +32,7 @@ Puedes modificarlo según tus herramientas o intereses actuales.
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LuMorenoM&theme=meta-dark&border_radius=8&locale=es&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
+**Mis redes sociales:**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
