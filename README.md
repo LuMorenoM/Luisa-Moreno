@@ -1,8 +1,8 @@
 ![banner](https://github.com/user-attachments/assets/12d00089-ad49-4ff7-940b-54113f9241c4)
-# Conoce más sobre mi
+# Conoce más sobre mi:
 ` Soy Estudiante de Desarrollo Web🦖​`
 
-Me apasiona el desarrollo web y actualmente me estoy especializando en tecnologías de *front-end*. Estoy en constante aprendizaje para mejorar mis habilidades y crear experiencias de usuario atractivas y funcionales. **Mi objetivo** es perfeccionar mi dominio del front-end y contribuir a proyectos interesantes en el mundo del desarrollo web.
+Me apasiona el desarrollo web 👩🏻‍💻 y actualmente me estoy especializando en tecnologías de *front-end*. Estoy en constante aprendizaje 📖 para mejorar mis habilidades y crear experiencias de usuario atractivas y funcionales. **Mi objetivo** 🎯 es perfeccionar mi dominio del front-end y contribuir a proyectos interesantes en el mundo del desarrollo web.
 
 🔧 Actualmente, estoy trabajando con:
 
