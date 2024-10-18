@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/03c75a90-d39e-4c90-9efa-868d47d14226)
+![banner](https://github.com/user-attachments/assets/12d00089-ad49-4ff7-940b-54113f9241c4)
 # Conoce más sobre mi
 ` Soy Estudiante de Desarrollo Web🦖​`
 
